@@ -22,6 +22,10 @@
         <activity
             android:name=".GuidelinesGroupsActivity"
             android:label="@string/title_activity_guidelines_groups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ClockLayoutActivity"
+            android:label="@string/title_activity_clock_layout"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
